@@ -44,7 +44,7 @@ st.markdown("""
 # SIDEBAR / CONTACT DETAILS
 # ---------------------------------------------------------------------------------
 with st.sidebar:
-    st.image("https://github.com/Lalitmaan988/Reconciliation-Tool-By-Lalit-Maan/blob/main/Logo.jpeg", width=60)
+    st.image("https://github.com/Lalitmaan988/Reconciliation-Tool-By-Lalit-Maan/blob/main/Logo.png", width=60)
     st.markdown("## 👨‍💻 About the Developer")
     st.info("**Built to streamline CRM data management, reduce duplicate entries, and automate complex workflows.**")
     
