@@ -53,7 +53,7 @@ with st.sidebar:
     st.markdown("### 📞 Contact & Support")
     st.markdown("**Developer:** Lalit Maan")
     st.markdown("**Role:** Salesforce Admin & Data Analytics")
-    st.markdown("📱 **Phone:** [+91 9001634419](tel:+919001634419)")
+    st.markdown("📱 **Phone:** [+91 9887829893](tel:+919887829893)")
     st.markdown("📧 **Email:** [Lalitmaan988@gmail.com](mailto:Lalitmaan988@gmail.com)")
     st.markdown("🌐 **Portfolio:** [Data Master Jaipur](https://datamasterjaipur.blogspot.com/)")
     st.markdown("🔗 **LinkedIn:** [Lalit Maan](https://www.linkedin.com/in/lalitmaan988/)")
